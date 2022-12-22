@@ -6,6 +6,3 @@ Login system app created with Nodejs and Express
 ``` npm install ```
 
 This command will install all the dependency in the project.
-
-
-<h5> This project is a part of my Back-end Development Bootcamp. </h5>
